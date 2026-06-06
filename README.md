@@ -1,15 +1,32 @@
-# Language Translator - CodeAlpha Task 1
-Student: Mahima Patel
+# CodeAlpha Java Internship Tasks
 
-## About Project
-This is a simple GUI Language Translator app made using Python and Tkinter.
-It translates English text to Hindi using deep-translator library.
+**Name:** Mahima Patel  
+**Student ID:** mp6892261-a11y  
+**Domain:** Java Programming  
+**Date:** 8 June 2026
 
-## How to Run This Project
-1. Install requirement: pip install deep-translator
-2. Run the app: py translator.py
+## 📌 Task 1: FAQ ChatBot
+A simple Java console chatbot that answers frequently asked questions about CodeAlpha internship using HashMap.
 
-## Features
-- Clean and simple GUI
-- English to Hindi translation
-- Error handling for empty input
+**Features:**
+- Keyword-based question matching
+- Pre-defined FAQ responses
+- Exit on 'bye' command
+
+## 📌 Task 2: Student Grade Tracker
+Java program to manage student grades using ArrayList and calculate statistics.
+
+**Features:**
+- Input grades for n students
+- Calculate Average, Highest, and Lowest grade
+- Display formatted results
+
+## 🚀 How to Run
+```bash
+# Task 1
+javac Task_1_Chatbot.java
+java Task_1_Chatbot
+
+# Task 2  
+javac Task_2_StudentGrades.java
+java Task_2_StudentGrades
